@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\!c++ project\List2\List2\List2.h(164,1): warning C4715: List2<int>::at: значение возвращается не при всех путях выполнения
+  List2.vcxproj -> D:\!c++ project\List2\x64\Debug\List2.exe
